@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class library", "Zadaca1\Class library.csproj", "{04029A1E-CEC0-46B1-A5D3-07DFADA2502E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program UI", "ConsoleApp1\Program UI.csproj", "{A8795C86-D8BE-40DD-9E1D-17013D38F009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04029A1E-CEC0-46B1-A5D3-07DFADA2502E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04029A1E-CEC0-46B1-A5D3-07DFADA2502E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04029A1E-CEC0-46B1-A5D3-07DFADA2502E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04029A1E-CEC0-46B1-A5D3-07DFADA2502E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8795C86-D8BE-40DD-9E1D-17013D38F009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8795C86-D8BE-40DD-9E1D-17013D38F009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8795C86-D8BE-40DD-9E1D-17013D38F009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8795C86-D8BE-40DD-9E1D-17013D38F009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB336B5F-2BDF-4009-AAA5-625BA6344983}
+	EndGlobalSection
+EndGlobal
