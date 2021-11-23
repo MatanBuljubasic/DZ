@@ -10,7 +10,12 @@ namespace Class_Library
         private double humidity;
         private double windSpeed;
 
-        public Weather() { }
+        public Weather() 
+        {
+            temperature = 20;
+            humidity = 5;
+            windSpeed = 5;
+        }
 
         public Weather(double temperature, double humidity, double windSpeed) { this.temperature = temperature; this.humidity = humidity; this.windSpeed = windSpeed; }
 
