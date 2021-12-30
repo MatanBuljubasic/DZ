@@ -13,5 +13,10 @@ namespace ClassLibrary1
         {
             this.date = date;
         }
+
+        public DateTime Date
+        {
+            get { return date; }
+        }
     }
 }
